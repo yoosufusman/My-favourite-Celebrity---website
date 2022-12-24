@@ -1,0 +1,24 @@
+body{
+	background-color:lightyellow}
+p{font-family: "Trebuchet MS" ,sans-serif;
+color:Yellow}
+p{
+  font-family: "Trebuchet MS" ,sans-serif;
+  color:DarkBlue;
+  margin-top: 70px;
+}
+
+h1{
+  text-align: center;
+}
+h1{text-align: center;
+  color:Green;
+  background-color:Yellow;
+}
+img{
+  border: 3px solid Black;
+}
+img{
+  border: 2px solid Black;
+  display:block;
+  margin: 0 auto;
